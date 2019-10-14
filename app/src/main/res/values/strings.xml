@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fade_and_scale</string>
+    <string name="fade_scale">Image Fade And Scale Animation</string>
+    <string name="scale">Scale</string>
+    <string name="fade">Fade</string>
+    <string name="desc">this is the image description</string>
+</resources>
